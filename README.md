@@ -5,8 +5,3 @@ my brother name is naveen
 
 we both are brothers
 
-a
-
-b
-
-c
